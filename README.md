@@ -8,3 +8,22 @@ Reflection gives us information about the class to which an object belongs and a
 of that class which can be executed by using the object.
 
 Through reflection we can invoke methods at runtime irrespective of the access specifier used with them.
+
+The output of the demo program is:
+
+com.codes.reflectiondemo.ReflectionTest
+com.codes.reflectiondemo.ReflectionTest
+secondMethod
+firstMethod
+wait
+wait
+wait
+equals
+toString
+hashCode
+getClass
+notify
+notifyAll
+The number given is 19
+The String is JAVA
+private method invoked!
